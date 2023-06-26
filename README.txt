@@ -1,4 +1,11 @@
-The Houdini Engine plugin is required for this project. If you don't have it installed already here are instruction on how to install it.
+This project requires:
+	Houdini version 19.5.640
+	Unreal Engine version 5.1.1
+	Houdini Engine plugin for Unreal
+
+The Houdini and Unreal version you have to install yourself.
+
+The Houdini Engine plugin is included in this project, below are the instructions on how to install it.
 
 
 
